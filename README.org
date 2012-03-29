@@ -1,0 +1,16 @@
+* What is Qingshi?
+
+Qingshi is system to study probabilistic distribution of Chinese nature language.
+
+ : it is in very inital stage of developing
+
+* Copyright 
+
+It is an open source under GNU license.
+
+
+
+* Use Qingshi
+
+
+TBD
